@@ -4,6 +4,7 @@ to hack the game.</h3>
 <h2> Rules/ Tutorial</h2>
 <ol>
 <li>You will have to chose a level you would like to hack into.</li>
+![](images/homescreen.png)
 <li>According to the level you've selected a game name will be shuffled and you have to guess the name.</li>
 <li>Once you guessed the correct password a win screen will appear.</li>
 </ol>
