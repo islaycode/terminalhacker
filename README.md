@@ -7,6 +7,6 @@ to hack the game.</h3>
 <li>According to the level you've selected a game name will be shuffled and you have to guess the name.</li>
 <li>Once you guessed the correct password a win screen will appear.</li>
 </ol>
-<img src="images/winscreen.png">
+<img src="images/homescreen.png">
 <img src="images/level1.png">
 <img src="images/winscreen.png">
